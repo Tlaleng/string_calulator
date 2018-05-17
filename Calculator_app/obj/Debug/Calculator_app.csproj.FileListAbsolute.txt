@@ -1,0 +1,6 @@
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_app\bin\Debug\Calculator_app.exe.config
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_app\bin\Debug\Calculator_app.exe
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_app\bin\Debug\Calculator_app.pdb
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_app\obj\Debug\Calculator_app.csproj.CoreCompileInputs.cache
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_app\obj\Debug\Calculator_app.exe
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_app\obj\Debug\Calculator_app.pdb

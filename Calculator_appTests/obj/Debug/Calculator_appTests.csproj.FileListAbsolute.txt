@@ -1,0 +1,17 @@
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_appTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_appTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_appTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_appTests\bin\Debug\Calculator_appTests.dll
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_appTests\bin\Debug\Calculator_appTests.pdb
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_appTests\bin\Debug\Calculator_app.exe
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_appTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_appTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_appTests\bin\Debug\Calculator_app.pdb
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_appTests\bin\Debug\Calculator_app.exe.config
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_appTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_appTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_appTests\obj\Debug\Calculator_appTests.csprojResolveAssemblyReference.cache
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_appTests\obj\Debug\Calculator_appTests.csproj.CoreCompileInputs.cache
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_appTests\obj\Debug\Calculator_appTests.csproj.CopyComplete
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_appTests\obj\Debug\Calculator_appTests.dll
+C:\Users\Transnet employee4\source\Repos\Calculator_app\Calculator_appTests\obj\Debug\Calculator_appTests.pdb
